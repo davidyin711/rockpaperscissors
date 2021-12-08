@@ -1,3 +1,7 @@
+html{
+  margin-bottom: 40px;
+}
+
 .row {
   text-align: center;
 }
@@ -8,18 +12,27 @@
 img{
   width:100%;
 }
+.row{
+  font-family: 'Comic Neue', cursive;
+  color:#7e909a;
+}
 
 .pS{
-  
-  
+  font-family: 'Comic Neue', cursive;
+  color:#54c2cc;
 }
 
 .uC{
-  
-  
+  font-family: 'Comic Neue', cursive;
+  color:#20525c;
 }
 
 .cC{
-  
+  font-family: 'Comic Neue', cursive;
+  color:#20525c;
+}
 
+.result{
+  margin-top: 30px;
+  color: red;
 }
